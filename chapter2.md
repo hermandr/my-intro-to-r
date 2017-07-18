@@ -48,6 +48,13 @@ test_output_contains("18", incorrect_msg = "Make sure to add `6 + 12` on a new l
 success_msg("Awesome! See how the console shows the result of the R code you submitted? Now that you're familiar with the interface, let's get down to R business!")
 ```
 
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:aaf5e82b43
+## <<<New Exercise>>>
+
+
+*** =video_link
+//player.vimeo.com/video/154783078
 --- type:NormalExercise xp:100 skills:1 key:720745eda5
 ## Aritmetika dengan R
 
